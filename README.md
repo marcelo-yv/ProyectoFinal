@@ -10,5 +10,6 @@ Este proyecto es un servicio de streaming desarrollado como parte del curso ofre
 
 ## Equipo
 
-- **Nanci Guzman**: Scrum Master
-- **Marcelo Leandro Younes Vidal**: Dev 1
+- **Nanci Guzman**: Scrum Master - DeV 1
+- **Marcelo Leandro Younes Vidal**: Dev 2
+- **Matias Orellana**: Dev 3
