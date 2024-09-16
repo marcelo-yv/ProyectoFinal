@@ -35,6 +35,10 @@
   z-index: 2;
   text-align: left;
   max-width: 70%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
 }
 
 .btn-show-movie {
@@ -44,12 +48,17 @@
   font-size: 1.2em;
   display: flex;
   justify-content: center;
-  align-items: centerj;
+  align-items: center;
+  text-align: center;
 }
 
 @media (min-width: 992px) {
   .movie-section {
     height: 70vh;
+  }
+
+  .movie-content {
+    justify-content: flex-start;
   }
 }
 
