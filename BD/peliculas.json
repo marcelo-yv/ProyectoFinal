@@ -1,0 +1,52 @@
+[
+    {
+        "url": "https://www.youtube.com/watch?v=5kIe6UZHSXw",
+        "img": "img/peliculas/1.jfif",
+        "alt": "movie-poster-1"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=gF3gZicntIw",
+        "img": "img/peliculas/2.jfif",
+        "alt": "movie-poster-2"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=gLJdzky63BA",
+        "img": "img/peliculas/3.jfif",
+        "alt": "movie-poster-3"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=x7CAjpdRaXU",
+        "img": "img/peliculas/4.jfif",
+        "alt": "movie-poster-4"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=U0KKCGsqs8I",
+        "img": "img/peliculas/5.jfif",
+        "alt": "movie-poster-5"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=84q0SXW781c",
+        "img": "img/peliculas/6.jfif",
+        "alt": "movie-poster-6"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=DqJbx39Cs2k",
+        "img": "img/peliculas/7.jfif",
+        "alt": "movie-poster-7"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=PWnBQACnA7Q",
+        "img": "img/peliculas/8.jfif",
+        "alt": "movie-poster-8"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=ekfTP1UQG1o",
+        "img": "img/peliculas/9.jfif",
+        "alt": "movie-poster-9"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=DhpDu4VsRrQ",
+        "img": "img/peliculas/10.jfif",
+        "alt": "movie-poster-10"
+    }
+]
