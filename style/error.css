@@ -1,0 +1,10 @@
+.error-container {
+    text-align: center;
+  }
+  .error-img {
+    max-width: 100%;
+    height: auto;
+  }
+  .error-message {
+    font-size: 1rem;
+  }

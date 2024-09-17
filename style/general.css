@@ -7,8 +7,25 @@
 }
 a{
     text-decoration: none;
+    
 }
 
-body{
+body {
     font-family: var(--TipografiaGeneral);
+    background-color: var(--ColorFondo);
 }
+
+
+.hola {
+    &:hover{
+        transform: scale(1.1);
+    }
+}
+
+/*Navbar*/
+.btn-outline-success:hover {
+    background-color:var(--ColorFondo); /* Cambia el color de fondo */
+    border-color:white; /* Cambia el color del borde */
+    color: white; /* Cambia el color del texto */
+  }
+
