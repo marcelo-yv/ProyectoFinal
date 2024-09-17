@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Leandro",
+      "position": "Cine en casa como nunca antes",
+      "review": "Este servicio de streaming ha transformado nuestras noches de películas en casa. La biblioteca de contenido es extensa y siempre encontramos algo nuevo e interesante para ver. Además, la calidad del streaming es excepcional, sin interrupciones ni problemas. La opción de crear listas personalizadas es una gran ventaja. No puedo imaginarme volver a los métodos tradicionales de ver televisión.",
+      "image": "img/reviews/1.jpg"
+    },
+    {
+      "name": "Amalia",
+      "position": "Perfecto para noches de películas",
+      "review": "Este servicio de streaming ha transformado nuestras noches de películas en casa. La biblioteca de contenido es extensa y siempre encontramos algo nuevo e interesante para ver. Además, la calidad del streaming es excepcional, sin interrupciones ni problemas. La opción de crear listas personalizadas es una gran ventaja. No puedo imaginarme volver a los métodos tradicionales de ver televisión.",
+      "image": "img/reviews/2.jpg"
+    },
+    {
+      "name": "Javier",
+      "position": "La mejor opción para ver películas",
+      "review": "Este servicio de streaming ha transformado nuestras noches de películas en casa. La biblioteca de contenido es extensa y siempre encontramos algo nuevo e interesante para ver. Además, la calidad del streaming es excepcional, sin interrupciones ni problemas. La opción de crear listas personalizadas es una gran ventaja. No puedo imaginarme volver a los métodos tradicionales de ver televisión.",
+      "image": "img/reviews/3.jpg"
+    }
+  ]

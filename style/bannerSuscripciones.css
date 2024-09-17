@@ -1,0 +1,19 @@
+.custom-indicators button {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0.75);
+  }
+  
+  .custom-indicators .active {
+    background-color: white;
+  }
+  
+  .carousel-indicators {
+    bottom: 30px;
+  }
+  
+  .carousel-inner {
+    height: 70vh; 
+  }
+

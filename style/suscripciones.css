@@ -1,0 +1,7 @@
+
+   /* Alineación en pantallas grandes */
+   @media (min-width: 768px) {
+    .form-label {
+        text-align: right;
+    }
+}
