@@ -8,4 +8,7 @@
 @import "/style/variables.css";
 @import "/style/error.css";
 @import "/style/nostros.css";
-@import "/style/bannerSuscripciones.css"
+@import "/style/bannerSuscripciones.css";
+@import "/style/categorias.css";
+@import "/style/peliculaDetalle.css";
+
